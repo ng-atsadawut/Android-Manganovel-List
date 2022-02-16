@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "266983283695",
+    "firebase_url": "https://manganovellist.firebaseio.com",
+    "project_id": "manganovellist",
+    "storage_bucket": "manganovellist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266983283695:android:39c012201943be1a3bb41a",
+        "android_client_info": {
+          "package_name": "com.example.manganovellist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266983283695-rmslseppnnrj98u3edt6p071gmvij32a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp-Ya6ROMuxwAYXoYhZc5BPebdXmH3jO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266983283695-rmslseppnnrj98u3edt6p071gmvij32a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
